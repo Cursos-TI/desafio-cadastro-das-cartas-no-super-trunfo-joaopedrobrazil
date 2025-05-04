@@ -4,7 +4,7 @@ int main() {
     // Declarando variáveis para a carta 1!
     char estado1;
     char codigo1[4]; // Ex: A01
-    char nomeCidade1[50];
+    char nomeCidade1[50]; 
     int populacao1;
     float area1;
     float pib1;
